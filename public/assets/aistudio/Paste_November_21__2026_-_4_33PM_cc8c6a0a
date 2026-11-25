@@ -1,0 +1,1139 @@
+# MASTER PROMPT — FARHAN PALACE
+## Cinematic Automotive Portfolio & Interactive Personal Brand Website
+
+Act as an award-winning creative director, automotive motion designer, interactive web developer, 3D artist, cinematographer, and UI/UX designer.
+
+I want you to build a **premium, fully animated, immersive automotive-inspired personal portfolio website** called:
+
+# FARHAN PALACE
+
+The website represents **Farhan Tanvir Shuvo** — an entrepreneur, automotive enthusiast, automotive content creator, technology enthusiast, creative thinker, businessman, and someone involved in building businesses and exploring new opportunities.
+
+This must NOT look like a normal portfolio, CV website, business dashboard, or template.
+
+I want an extraordinary, visually immersive website where the visitor experiences animation, cinematic cars, interactive sounds, motion design, storytelling, automotive experiments, creative work, photography, and my personality.
+
+I have provided a ready-made HTML file as a visual/reference guide. Study that file carefully and use it to understand the style, layout, visual direction, and type of experience I want. Do not blindly copy it. Use it as inspiration and improve the experience significantly with a premium design, better animation, better responsiveness, smoother transitions, and more polished interactions.
+
+---
+
+# 1. THE CORE VISION
+
+The website should feel like a mixture of:
+
+- Luxury automotive digital experience
+- Cinematic car showcase
+- Interactive 3D portfolio
+- Premium personal brand
+- Automotive magazine
+- Creative studio
+- Futuristic digital playground
+- Personal storytelling experience
+
+The visitor should feel as if they entered a cinematic digital environment—not a website full of information and boxes.
+
+The website should be highly visual, smooth, interactive, realistic, memorable, and professionally designed.
+
+### Brand name
+
+**FARHAN PALACE**
+
+### My identity
+
+**FARHAN TANVIR SHUVO**
+
+My identity should be introduced through elegant animated typography, cinematic transitions, and creative presentation.
+
+Do not display academic results, GPA, academic grades, or unnecessary academic details.
+
+Do not create a CV-style homepage.
+
+---
+
+# 2. VISUAL DESIGN SYSTEM
+
+Create an extremely premium visual design.
+
+### Color palette
+
+- Obsidian black
+- Deep graphite
+- Dark metallic grey
+- Silver
+- Off-white
+- Smoke grey
+- Restrained icy cyan
+- Small amounts of warm amber or red when automotive lighting requires it
+
+### Visual elements
+
+- Cinematic shadows
+- Realistic reflections
+- Metallic surfaces
+- Atmospheric fog
+- Volumetric lighting
+- Motion blur
+- Depth
+- Perspective
+- Film grain
+- Subtle glowing effects
+- Gradient lighting
+- Minimal UI
+- Elegant typography
+- Glass details used carefully
+- High-quality image composition
+
+The design should feel like a combination of a premium BMW, McLaren, Porsche, Mercedes-AMG, and luxury automotive campaign.
+
+Do not copy their websites. Create an original visual identity inspired by luxury automotive presentation.
+
+### Typography
+
+Use modern, premium typography.
+
+Mix:
+
+- Bold cinematic headlines
+- Elegant editorial typography
+- Modern sans-serif text
+- Stylish italic typography
+- Signature-style text where appropriate
+
+The typography must feel expressive, modern, premium, and human.
+
+Avoid robotic, generic, overly technical, AI-generated corporate wording.
+
+Use animated text, smooth text reveals, glowing text accents, signature-style elements, and creative headline transitions.
+
+---
+
+# 3. HERO SECTION — CINEMATIC CAR EXPERIENCE
+
+This is the most important part of the entire website.
+
+The hero must be a full-screen, cinematic, interactive automotive experience.
+
+Do not create a static background with a car image.
+
+Build a sequence where different cars enter, present themselves, interact with the scene, and leave before the next car arrives.
+
+The entire experience should feel like an automotive motion film that the visitor can interact with.
+
+## Opening sequence
+
+When the visitor enters the website:
+
+1. A dark cinematic environment appears.
+2. Atmospheric lighting slowly reveals the scene.
+3. The Farhan Palace identity appears with an elegant animation.
+4. The headline **FARHAN TANVIR SHUVO** reveals itself through cinematic typography.
+5. A premium vehicle slowly appears from the darkness.
+6. Headlights turn on or blink naturally.
+7. The car moves into the scene.
+8. The camera follows the vehicle.
+9. The vehicle rotates or the camera changes perspective to reveal its design.
+10. The vehicle settles into a premium presentation position.
+
+Possible introductory text:
+
+**"Driven by curiosity. Built through creativity."**
+
+Or:
+
+**"Beyond the ordinary. Into the extraordinary."**
+
+Use your own creative judgment to produce an even better tagline.
+
+Keep the text minimal.
+
+---
+
+# 4. HERO CAR SWIPE / VEHICLE PRESENTATION SYSTEM
+
+Create an interactive vehicle showcase with multiple vehicles.
+
+The featured vehicle should change through a swipe, drag, click, scroll, or navigation interaction.
+
+Possible vehicles:
+
+- BMW M4 Competition
+- Toyota Supra MK5
+- McLaren 720S
+- McLaren 750S
+- Porsche 911 GT3 RS
+- Mercedes-AMG GT
+- Nissan GT-R R35
+
+Use real, visually recognizable vehicle models or high-quality realistic image/video assets. Vehicle details must correspond to the displayed model.
+
+Do not invent vehicle specifications.
+
+If a specific model's information is not verified, leave it editable or use clearly labeled sample data.
+
+### Vehicle transition behavior
+
+When a visitor switches vehicles:
+
+- The current car should begin exiting the scene.
+- Its wheels should animate appropriately if technically possible.
+- The car should steer toward the right or left depending on the transition direction.
+- The car should accelerate.
+- The camera should follow its movement briefly.
+- The vehicle should move out of view.
+- Motion blur should be used subtly.
+- Background lighting should transition.
+- The next vehicle should enter the scene with a different cinematic movement.
+- Headlights may flash or activate as the vehicle approaches.
+- The next car should smoothly settle into the showcase position.
+
+Do not simply replace one image with another using a basic slider.
+
+Create the feeling that the previous car physically leaves and another car arrives.
+
+### Car entrance styles
+
+Use different entrance animations for different vehicles:
+
+- A McLaren slowly approaches from darkness and stops in a dramatic position.
+- A BMW enters from the side, turns slightly, and settles into the frame.
+- A Supra enters with an aggressive acceleration effect.
+- A Porsche emerges from a dark environment with headlights illuminating the scene.
+- Another car may enter through a cinematic tracking camera transition.
+
+The movement should be elegant, realistic, and believable.
+
+Do not use cartoon-style vehicle movement.
+
+---
+
+# 5. VEHICLE DETAILS PRESENTATION
+
+When a car arrives and settles into the hero scene, display its information elegantly.
+
+Information should appear through animated typography and a premium HUD-style interface, but the UI must not feel like a video game.
+
+Display information such as:
+
+- Manufacturer
+- Model
+- Model year
+- Engine
+- Engine displacement
+- Fuel type
+- Horsepower
+- Torque
+- 0–100 km/h acceleration
+- Top speed
+- Transmission
+- Drivetrain
+- Special features
+
+Only show information that is relevant and available for that specific model.
+
+### Example
+
+BMW M4 Competition
+
+- 3.0L Twin-Turbo Inline-6
+- Petrol
+- 503 HP (market/specification dependent)
+- 650 Nm
+- 0–100 km/h: approximately 3.5 seconds, depending on configuration
+- Top speed: electronically limited, depending on configuration
+
+The presentation should animate into view.
+
+Use:
+
+- Numbers counting up
+- Smooth text reveals
+- Line animations
+- Minimal data panels
+- Subtle cyan or white highlights
+- Elegant transition effects
+
+The vehicle should remain the main focus. Specifications should complement it, not overpower it.
+
+---
+
+# 6. VEHICLE INTERACTION
+
+The car must not be a passive visual.
+
+When visitors interact:
+
+- Hover over the car to reveal subtle highlights.
+- Click the car to trigger an alternate camera view.
+- Move the cursor to influence camera movement.
+- Scroll to change camera angles.
+- Click specifications to reveal additional information.
+- Use navigation controls to switch vehicles.
+- Swipe left/right on mobile.
+- Click the REV button to trigger the sound and animation experience.
+
+Use natural interaction, not too many buttons.
+
+The entire experience must feel fluid.
+
+---
+
+# 7. REV BUTTON — ENGINE SOUND EXPERIENCE
+
+Create a premium interactive **REV** button inside the hero section.
+
+This button should be visually designed like a luxury automotive ignition or engine interaction.
+
+When the visitor clicks REV:
+
+- Trigger an authentic engine rev sound for the featured vehicle.
+- Animate the engine RPM visualization.
+- Create a subtle vibration-like visual effect.
+- Animate light reflections across the vehicle.
+- Trigger a short camera movement.
+- Animate the RPM meter.
+- If appropriate, trigger a subtle exhaust animation.
+- For performance vehicles, create a cinematic exhaust pop or crackle effect where suitable.
+- Use a realistic sound effect rather than a cartoon sound.
+
+If the vehicle has an appropriate exhaust pop or crackle sound, use a properly licensed audio sample.
+
+The sound must correspond as closely as possible to the displayed vehicle.
+
+### Audio rules
+
+- Sound is triggered only after visitor interaction.
+- Never autoplay loud engine sounds.
+- Add a sound toggle.
+- Add a mute option.
+- Allow volume control if practical.
+- Audio should stop or fade properly when switching vehicles.
+- Avoid audio overlap.
+- Ensure the interaction works on desktop and mobile.
+
+If exact engine audio is unavailable, use a high-quality editable sound placeholder and clearly organize the sound assets so I can replace them later.
+
+---
+
+# 8. EXHAUST FIRE & POPS AND BANGS EFFECT
+
+When the visitor clicks REV on an appropriate performance vehicle, create a cinematic exhaust effect.
+
+Possible visual effects:
+
+- A short orange-red exhaust flame
+- Heat distortion
+- Small bursts of light
+- Smoke
+- Particle movement
+- Backlighting
+- A subtle flash
+- Short cinematic camera shake
+
+The flame must appear behind the vehicle at the correct exhaust position.
+
+Do not make the fire look cartoonish.
+
+The effect should be brief, realistic, controlled, and synchronized with the engine sound.
+
+Use this effect only on vehicles for which it visually makes sense.
+
+The visual effect must not cause excessive flashing or accessibility issues.
+
+---
+
+# 9. CAR CAMERA & ZOOM EXPERIENCE
+
+When a vehicle enters the hero section, create a premium camera sequence.
+
+Possible sequence:
+
+### Shot 1 — Arrival
+
+The car is partially hidden in darkness.
+
+Headlights slowly turn on.
+
+### Shot 2 — Reveal
+
+The car approaches.
+
+The camera moves toward the front.
+
+### Shot 3 — Front detail
+
+The camera focuses on:
+
+- Front grille
+- Headlights
+- Hood
+- Front badge
+
+### Shot 4 — Side reveal
+
+The camera smoothly travels from front to side.
+
+Show:
+
+- Body lines
+- Wheels
+- Side profile
+- Door
+- Side mirrors
+
+### Shot 5 — Detail shot
+
+Zoom into a premium detail such as:
+
+- Wheel
+- Brake caliper
+- Headlight
+- Exhaust
+- Interior
+
+### Shot 6 — Hero parking
+
+The car returns to a premium showcase position.
+
+It settles with a realistic suspension-like movement if possible.
+
+Then the information panel appears.
+
+### Shot 7 — Exit
+
+When switching vehicles, the car turns or steers toward the transition direction, accelerates, and exits the scene.
+
+The next car begins its own entrance sequence.
+
+Create the experience through cinematic transitions, not abrupt image changes.
+
+---
+
+# 10. BELOW-HERO SCROLL EXPERIENCE
+
+After the hero, scrolling should continue the immersive experience.
+
+Do not suddenly transition into a generic website with ordinary cards.
+
+Create a seamless visual journey.
+
+Possible sequence:
+
+### Section 1 — Beyond Machines
+
+An automotive-inspired visual section with large typography, imagery, motion, and a short personal statement.
+
+### Section 2 — The Art of Speed
+
+A cinematic section about performance, engineering, and automotive creativity.
+
+Use animated visuals and editorial storytelling.
+
+### Section 3 — Interactive Automotive Research
+
+An educational and visually interactive automotive section.
+
+### Section 4 — My Creative Work
+
+Show my projects, video editing, photography, business activities, and creative work.
+
+### Section 5 — My World
+
+Introduce Farhan Tanvir Shuvo through interactive storytelling.
+
+### Section 6 — Business & Vision
+
+Show my involvement in businesses, entrepreneurial interests, and what I am building.
+
+### Section 7 — Contact
+
+Finish with a powerful cinematic closing experience.
+
+Create smooth transitions between sections.
+
+---
+
+# 11. AUTOMOTIVE RESEARCH & INTERACTIVE ENGINEERING
+
+Create a section called something like:
+
+**INSIDE THE MACHINE**
+
+Or:
+
+**THE SCIENCE OF SPEED**
+
+This should be a visually engaging automotive research and engineering section.
+
+It must not feel like a textbook.
+
+Use interactive animations to explain how vehicles work.
+
+Create several featured topics.
+
+## A. Aerodynamics — How Cars Become Faster
+
+Explain visually:
+
+- Drag
+- Air resistance
+- Downforce
+- Diffusers
+- Splitters
+- Spoilers
+- Ground effect
+- Airflow around the body
+
+Create an animated airflow visualization.
+
+Show air particles traveling around an animated car model.
+
+Allow visitors to switch between:
+
+- High drag
+- Low drag
+- High downforce
+- Low downforce
+
+Illustrate how aerodynamic changes influence performance and stability.
+
+Use short, easy-to-understand explanations.
+
+## B. V6 vs V8 Engines
+
+Create an interactive engine visualization.
+
+Show the difference between V6 and V8 engines.
+
+Explain:
+
+- Number of cylinders
+- Engine configuration
+- Power characteristics
+- Sound differences
+- Torque characteristics
+- Typical use cases
+
+Use an animated engine visualization or rotating mechanical model.
+
+Make the experience visually impressive.
+
+## C. Turbocharger
+
+Create an animated turbocharger explanation.
+
+Show:
+
+1. Exhaust gases entering the turbine.
+2. The turbine spinning.
+3. The compressor spinning.
+4. Air being compressed.
+5. Compressed air entering the engine.
+6. Increased airflow and power potential.
+
+Use animated airflow particles.
+
+## D. Supercharger
+
+Show how a supercharger works.
+
+Explain:
+
+- Mechanical connection
+- Air compression
+- Immediate boost characteristics
+- Differences from turbochargers
+
+Create an animated visualization.
+
+## E. Naturally Aspirated vs Turbo vs Supercharged
+
+Allow visitors to interactively compare the systems.
+
+Use:
+
+- Animated engine visualizations
+- Power delivery curves
+- Sound comparisons where available
+- Short explanations
+- Performance differences
+
+## F. Transmission & Drivetrain
+
+Show:
+
+- Manual transmission
+- Automatic transmission
+- Dual-clutch transmission
+- AWD
+- RWD
+- FWD
+
+Create simple interactive mechanical illustrations or 3D models.
+
+## G. New Automotive Research
+
+Create a content area for automotive discoveries, technologies, research, innovations, and new developments.
+
+Possible topics:
+
+- Hybrid technology
+- EV technology
+- Battery developments
+- Carbon fiber
+- Active aerodynamics
+- Autonomous driving
+- Performance technologies
+- Engine innovations
+
+Keep the content updateable.
+
+Do not invent research findings.
+
+The visual presentation should be premium, interactive, educational, and cinematic.
+
+---
+
+# 12. AUTOMOTIVE MEDIA & PHOTOGRAPHY
+
+Create a dedicated automotive photography section.
+
+I have captured many automotive images myself, including 4K photographs.
+
+I will replace and upload my own photographs later.
+
+### Design
+
+- Full-screen image compositions
+- Premium masonry gallery
+- Cinematic transitions
+- Dark backgrounds
+- Image-focused layout
+- Smooth zoom
+- Interactive image viewing
+- Collection-based browsing
+- Category filtering
+- Hover reveals
+- Image details
+
+### Categories
+
+- Luxury
+- Performance
+- SUVs
+- Supercars
+- Sports Cars
+- Automotive Details
+- Night Photography
+- My Captures
+
+Use temporary assets only as placeholders.
+
+Do not represent stock images as my original photographs.
+
+---
+
+# 13. VIDEO EDITING & CINEMATIC CONTENT
+
+Create a dedicated section showcasing video editing and automotive cinematic content.
+
+The section should look like a premium video production portfolio.
+
+### Visual layout
+
+- Large cinematic video frame
+- Full-width video preview
+- Film-style typography
+- Animated timeline graphics
+- Video thumbnails
+- Smooth transitions
+- Hover preview
+- Full-screen viewing
+- Playback controls
+
+For initial development, use suitable royalty-free automotive stock footage or legally usable temporary demo videos.
+
+These videos are temporary and will later be replaced with my own edited content.
+
+Do not permanently hardcode video URLs.
+
+Allow media to be easily replaced.
+
+### Video categories
+
+- Automotive Cinematics
+- Car Reels
+- Editing Experiments
+- Visual Stories
+- Commercial Style
+- Short Films
+
+The video section should be one of the most visually impressive sections of the website.
+
+---
+
+# 14. PHONE / PERSONAL PHOTOGRAPHY EXPERIENCE
+
+Create a creative visual section showing selected photographs captured by me.
+
+Use a phone-inspired visual concept where visitors can interact with a realistic modern smartphone.
+
+Inside the phone screen, show:
+
+- Automotive photographs
+- Personal captures
+- Selected moments
+- Creative images
+- Visual collections
+
+When visitors interact with the phone:
+
+- The screen changes.
+- Images appear with smooth transitions.
+- Gallery items open.
+- Images can be enlarged.
+- Visitors can swipe between photos.
+
+Create a realistic phone frame with subtle 3D rotation and light reflections.
+
+Use placeholder images initially and allow replacement later.
+
+---
+
+# 15. PROJECTS & WORK
+
+Create a visually rich section showing projects and work.
+
+Do not display projects as generic rectangular cards.
+
+Use:
+
+- Editorial layouts
+- Large images
+- Animated project previews
+- Horizontal scrolling
+- Image masking
+- Text reveals
+- Interactive project details
+
+Each project may include:
+
+- Name
+- Cover image
+- Description
+- Category
+- My role
+- Technologies
+- Images
+- Video
+- Links
+- Details
+
+Create a separate project detail page for each project.
+
+Projects must be easy to add or replace later.
+
+---
+
+# 16. CLEXORA — REMOTE OFFICE EXECUTION SERVICE
+
+Include a dedicated section for:
+
+# CLEXORA
+
+My remote office execution service.
+
+Present Clexora as a business and service concept focused on helping businesses execute remote operational tasks and support functions through remote service delivery.
+
+Use professional business imagery, abstract office visuals, communication elements, workflow animations, and premium design.
+
+Possible presentation:
+
+- Remote execution
+- Operational support
+- Digital workflows
+- Business support
+- Customer communication
+- Flexible remote operations
+
+The design should look like a premium modern service brand.
+
+Do not invent clients, revenue, company achievements, employee numbers, or claims that have not been provided.
+
+The content should remain editable.
+
+---
+
+# 17. IMPERION AUTOS — LUXURY AUTOMOTIVE BRAND
+
+Include a dedicated section for:
+
+# IMPERION AUTOS
+
+Present Imperion Autos as my luxury automotive brand/business identity.
+
+The visual experience should feel like a luxury vehicle showroom.
+
+Use:
+
+- Luxury automotive photography
+- Premium vehicle presentations
+- Cinematic lighting
+- Metallic typography
+- Black and silver design
+- High-end vehicle showcases
+- Automotive branding
+- Smooth motion
+
+Possible presentation:
+
+"Where automotive passion meets refined experience."
+
+Use editable content.
+
+Do not invent vehicles currently available for sale, business locations, customer reviews, or financial claims.
+
+This section can later evolve into a full automotive brand website.
+
+---
+
+# 18. WHO IS FARHAN TANVIR SHUVO?
+
+Create a personal section that introduces me.
+
+Do not turn it into a CV.
+
+Instead, use a creative storytelling experience to reveal:
+
+- My personality
+- My interests
+- My professional direction
+- My automotive passion
+- My creative side
+- My business mindset
+- My technical interests
+- My entrepreneurial ambition
+- My projects
+- My vision
+
+Use signature-style text, modern typography, animated transitions, elegant glowing details, and immersive layouts.
+
+Possible headline:
+
+**"A mind that explores. A vision that builds. A life driven by possibilities."**
+
+The tone must be authentic, confident, modern, and human.
+
+Avoid robotic or corporate AI language.
+
+Do not include academic grades, GPA, or academic results.
+
+---
+
+# 19. INNER PAGES
+
+The homepage should remain cinematic and visually driven.
+
+Use dedicated inner pages for more detailed information.
+
+Create:
+
+- About
+- My Work
+- Projects
+- Automotive
+- Photography
+- Video Editing
+- Skills
+- Experience
+- Certifications
+- Achievements
+- Goals
+- Journal
+- Business
+- Contact
+
+Each page must have a unique layout and animation style.
+
+Do not make every page look identical.
+
+Use editorial design, timelines, cinematic media, typography, galleries, and interactive elements.
+
+Detailed professional information should remain inside inner pages rather than cluttering the hero.
+
+---
+
+# 20. SIGNATURE STYLE & TYPOGRAPHY
+
+I specifically want the website to feel expressive, modern, and premium.
+
+Add tasteful:
+
+- Signature-style text
+- Animated handwritten accents
+- Glow effects
+- Animated underline
+- Typography transitions
+- Elegant italic headings
+- Text reveal
+- Modern typography
+- Light reflections
+- Motion-based typography
+
+Do not use robotic, technical, generic corporate text throughout the website.
+
+The wording should feel like a real person with creativity, personality, ambition, and confidence.
+
+Use concise writing.
+
+Avoid unnecessary paragraphs.
+
+---
+
+# 21. NAVIGATION & BUTTONS
+
+Create a premium navigation system.
+
+Possible navigation:
+
+- Home
+- My World
+- Automotive
+- Engineering
+- Projects
+- About
+- Contact
+
+Use animated menus, smooth transitions, active states, responsive navigation, and interactive controls.
+
+### Every button must work.
+
+There must be no fake buttons.
+
+Every button must:
+
+- Navigate to the correct destination
+- Trigger the correct interaction
+- Open the correct modal
+- Change the correct content
+- Play or stop sound appropriately
+- Work on mobile
+- Have appropriate feedback
+
+Do not create decorative buttons that do nothing.
+
+---
+
+# 22. SCROLL & POP-UP ANIMATION
+
+Implement advanced but smooth scroll animations.
+
+### On scrolling
+
+- Content reveals from behind masks.
+- Headings animate into view.
+- Images zoom subtly.
+- Objects move in depth.
+- Backgrounds transition.
+- 3D objects rotate or move.
+- Sections appear progressively.
+- Automotive imagery transitions between scenes.
+- Typography changes size where appropriate.
+
+### Popup animations
+
+Use popup or overlay animations for:
+
+- Vehicle details
+- Image galleries
+- Project details
+- Research information
+- Video previews
+- Interactive engine information
+
+Popups should open and close smoothly.
+
+Support Escape key, outside click where appropriate, and accessible keyboard navigation.
+
+Do not make the user wait through unnecessary animations.
+
+---
+
+# 23. RESPONSIVE DESIGN
+
+The entire website must work perfectly across:
+
+- 4K screens
+- Desktop
+- Laptop
+- Tablet
+- iPad
+- Mobile
+- Small mobile devices
+
+The automotive experience must be adapted for touchscreens.
+
+On mobile:
+
+- Replace mouse-based interaction with touch-friendly controls.
+- Allow swipe-based car switching.
+- Optimize 3D.
+- Simplify expensive effects.
+- Keep buttons accessible.
+- Maintain visual quality.
+- Prevent horizontal overflow.
+- Prevent text overlap.
+- Keep animations smooth.
+- Provide mobile camera behavior where appropriate.
+
+The mobile experience must not simply be a smaller desktop website.
+
+It must feel specifically designed for mobile.
+
+---
+
+# 24. PERFORMANCE & LOADING
+
+This website contains many animations, 3D elements, videos, images, and effects.
+
+Performance is extremely important.
+
+Implement:
+
+- Lazy loading
+- Optimized image formats
+- Responsive image sizes
+- Compressed assets
+- Dynamic imports
+- 3D optimization
+- GPU-friendly animations
+- Efficient rendering
+- Video lazy loading
+- Audio management
+- Proper caching
+- Loading fallbacks
+
+Do not load every 3D object, video, or large image immediately.
+
+The hero must load quickly.
+
+Use a lightweight fallback if 3D cannot load.
+
+On lower-end mobile devices, automatically reduce particles, shadows, reflections, and animation complexity.
+
+---
+
+# 25. SEO & WEBSITE METADATA
+
+Implement proper SEO foundations even though the website is visually heavy.
+
+Include:
+
+- Page-specific title
+- Meta description
+- Canonical URL
+- Open Graph
+- Social sharing metadata
+- Structured data where appropriate
+- Semantic HTML
+- Alt text
+- Sitemap
+- Robots.txt
+- Clean URLs
+- Crawlable links
+- Indexable content
+- Optimized page loading
+
+The website name:
+
+**Farhan Palace**
+
+The personal name:
+
+**Farhan Tanvir Shuvo**
+
+Do not compromise SEO for visual effects.
+
+Do not hide all text inside canvas, WebGL, or animation layers.
+
+---
+
+# 26. DEVELOPMENT RULES
+
+- Use the provided HTML file as an important design reference.
+- Preserve the project's existing structure where possible.
+- Build the actual working website.
+- Do not generate only a static mockup.
+- Do not add an admin dashboard at this stage.
+- Do not add academic results, GPA, or unnecessary academic information.
+- Focus on the public-facing portfolio experience.
+- Prioritize animation quality and design.
+- Use reusable components.
+- Keep code clean.
+- Use realistic visual assets.
+- Do not invent my personal achievements.
+- Do not fabricate portfolio projects.
+- Temporary stock media must be replaceable.
+- Do not use stock content as if it were my actual work.
+- All buttons must function.
+- All navigation must function.
+- All interactions must function.
+- All animations must be optimized.
+- The website must be fully responsive.
+- Add graceful fallbacks.
+- Fix console errors.
+- Fix broken assets.
+- Test the complete website.
+
+---
+
+# 27. FINAL EXPERIENCE
+
+When a visitor opens Farhan Palace, I want them to experience something unexpected.
+
+A car emerges from darkness.
+
+The headlights come alive.
+
+The vehicle approaches.
+
+The camera moves.
+
+The car stops.
+
+The details appear.
+
+The visitor presses REV.
+
+The engine responds.
+
+A subtle exhaust flame appears.
+
+The visitor switches cars.
+
+One car accelerates away while another enters.
+
+They scroll.
+
+They explore automotive engineering.
+
+They discover cinematic videos.
+
+They see my photography.
+
+They explore my projects.
+
+They discover Clexora.
+
+They discover Imperion Autos.
+
+They begin to understand who Farhan Tanvir Shuvo is.
+
+This is not just a portfolio.
+
+This is my digital world.
+
+**Build Farhan Palace as a premium, immersive, cinematic automotive experience with exceptional motion design, realistic interaction, elegant typography, signature visual identity, advanced scroll animation, responsive design, and fully functional interactions.**
+
+The final result should feel like a combination of a luxury automotive campaign, an award-winning creative portfolio, and an interactive digital experience.
+
+Make it extraordinary.
