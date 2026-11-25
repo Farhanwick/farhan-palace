@@ -1,1 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
 public/assets/aistudio/lv_0_20261122164232_ff80346b.mp4 filter=lfs diff=lfs merge=lfs -text
